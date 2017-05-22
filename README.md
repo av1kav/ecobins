@@ -1,2 +1,2 @@
 # ecobins
-An IOT-based implementation of Convolutional Deep Learning - based sorters with remote classification and on-the-fly data analytics 
+An IOT-based implementation of Convolutional Deep Learning - bins with remote classification capabilities and on-the-fly data analytics. 
